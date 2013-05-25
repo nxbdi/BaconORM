@@ -1,0 +1,4 @@
+BaconORM
+========
+
+minimal ORM fast
